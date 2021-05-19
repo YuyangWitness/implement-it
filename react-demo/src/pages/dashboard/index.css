@@ -1,0 +1,23 @@
+.dashboard-div {
+  padding: 20px;
+}
+
+.left-table{
+  width: 50%;
+}
+
+.left-table > div {
+  margin-top: 20px;
+}
+
+.performance-title {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  vertical-align: sub;
+  margin-right: 10px;
+}
+
+.performace-table {
+  margin-top: 20px;
+}
